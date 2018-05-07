@@ -1,6 +1,6 @@
-##Apresentação do trabalho final de Linguagem de programação 3 - Fundatec
+## ApresentaÃ§Ã£o do trabalho final de Linguagem de programaÃ§Ã£o 3 - Fundatec
 
-#Apresentação dos padrões 
+# ApresentaÃ§Ã£o dos padrÃµes 
 - Factory Method
 - Observer
 - Strategy
